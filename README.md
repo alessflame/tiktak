@@ -1,29 +1,21 @@
-# tik-tok
 
-This template should help get you started developing with Vue 3 in Vite.
+# Tik Tak Game
 
-## Recommended IDE Setup
+A simple app of tik tak game developed with Vue.js 3
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Authors
 
-## Customize configuration
+##### Francesco Alessi
+- [Linkedin](https://www.github.com/alessflame)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Demo
+- [Demo](https://tiktak-game.netlify.app/)
 
-## Project Setup
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
+## Acknowledgements
 
-```sh
-npm run dev
-```
+ - VueJS
+ - Tailwind
+ - Pinia 
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
